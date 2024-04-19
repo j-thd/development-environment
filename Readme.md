@@ -5,7 +5,7 @@ I am currently working on my own project for my portfolio, in which I want to de
 
 # Demonstrated skills
 
-I learned all steps of the toolchain to turn a basic Blinky project into a binary that can be directly flashed onto the MCU.
+I learned all steps of the toolchain to turn a basic Blinky project into a bingit ary that can be directly flashed onto the MCU.
 This involved using and understanding the following subjects:
 
 
